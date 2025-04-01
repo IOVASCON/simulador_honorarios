@@ -1,5 +1,7 @@
 # ⚖️ Simulador de Honorários Advocatícios com Python e CustomTkinter 🐍
 
+![Logo da Aplicação](images/logo.jpg)
+
 ![Interface do Simulador](images/interface_grafica.PNG)
 
 ## 🎯 Objetivo
