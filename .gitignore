@@ -124,8 +124,6 @@ dmypy.json
 
 # Output directory for this project
 output/
-*.pdf
-*.docx
 
 # IDE / Editor specific files
 .vscode/
