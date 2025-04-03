@@ -2,7 +2,7 @@
 
 ![Logo da Aplicação](images/logo.jpg)
 
-![Interface do Simulador](images/interface_grafica.PNG)
+![Interface do Simulador](images/simulador_completo.PNG)
 
 ## 🎯 Objetivo
 
